@@ -1,0 +1,6 @@
+{
+  "name": "Kariyer & Mülakat Koçu (Career & Interview AI Coach)",
+  "description": "Mülakatçının unvanına özel soru simülatörü, yanıt analizi ve geçmiş eğitim katılımlarına dayalı kariyer gelişim yol haritası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
